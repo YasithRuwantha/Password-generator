@@ -19,13 +19,3 @@ It’s a simple web app that generates random secure passwords based on the leng
 
 ---
 
-
-## 📂 Project Structure
-
-password_webapp/
-│
-├── app.py # Flask backend
-└── templates/
-└── index.html # Frontend (UI)
-
----
